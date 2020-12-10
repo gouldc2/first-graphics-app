@@ -3,6 +3,7 @@
 {% import "_modules/link/link.nunjucks" as link %}
 
 {% block content %}
+<p>Hello World</p>
 <div class="main-container">
   <div class="yeogurt-info">
     <h1>Welcome to Yeogurt!</h1>
